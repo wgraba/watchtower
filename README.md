@@ -1,2 +1,6 @@
-# watchtower
-Watchtower config for home lab
+# Watchtower
+[Watchtower](https://containrrr.dev/watchtower/) config for home lab.
+
+## Purpose
+Update containers to latest version and restart
+
